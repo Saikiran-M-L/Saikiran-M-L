@@ -39,14 +39,6 @@ My background sits at the intersection of **software engineering and data analyt
 
 ---
 
-## 📌 What I’m Working On
-
-- Strengthening my skills in **data analytics and machine learning**
-- Building **end-to-end analytics projects** (data → insights → visualization)
-- Applying my software engineering mindset to **data-driven problems**
-
----
-
 ## 🤝 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saikiran-magadi-lakshmeesha/)  
