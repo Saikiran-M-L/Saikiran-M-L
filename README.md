@@ -23,6 +23,7 @@ My background sits at the intersection of **software engineering and data analyt
 
 **Analytics & Visualization**
 - Tableau
+- Power BI
 - Excel
 - Data cleaning & transformation
 - KPI reporting & dashboards
@@ -34,6 +35,7 @@ My background sits at the intersection of **software engineering and data analyt
 
 **Tools & Workflow**
 - Git & GitHub
+- Microsoft Power Automate
 - Agile / collaborative development
 - Documentation & reporting
 
