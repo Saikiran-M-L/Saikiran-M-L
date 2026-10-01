@@ -5,8 +5,8 @@ I build full-stack applications, data pipelines, and AI-powered automation syste
 
 - Master's in **Applied Data Science & Analytics**, SRH Hochschule Hamburg (graduating 2027)
 - Working Student, **EGIDO GmbH** (Aug 2025 – Jul 2026): building full-stack portals, AI-powered workflows, CI/CD pipelines, and data infrastructure for German tax advisory firms
-- 🏢 Previously **Senior Software Engineer** at Go Digit General Insurance (3+ years): TypeScript/Angular frontend, REST APIs, process automation, fraud detection, and BI dashboards at scale
-- 🤖 Open to full-time Data Engineering / Analytics roles in Germany from 2027
+- Previously **Senior Software Engineer** at Go Digit General Insurance (3+ years): TypeScript/Angular frontend, REST APIs, process automation, fraud detection, and BI dashboards at scale
+- Open to full-time Data Engineering / Analytics roles in Germany from 2027
 ---
 
 ## Tech Stack
