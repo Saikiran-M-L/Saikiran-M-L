@@ -1,7 +1,7 @@
 # Hi, I'm Saikiran Magadi Lakshmeesha
 
 **Software Engineer & Data Engineer/Analyst** based in Hamburg, Germany.
-I build full-stack applications, data pipelines, and AI-powered automation systems — and I care about making them maintainable, scalable, and actually useful.
+I build full-stack applications, data pipelines, and AI-powered automation systems and I care about making them maintainable, scalable, and actually useful.
 
 - Master's in **Applied Data Science & Analytics**, SRH Hochschule Hamburg (graduating 2027)
 - Working Student, **EGIDO GmbH** (Aug 2025 – Jul 2026): building full-stack portals, AI-powered workflows, CI/CD pipelines, and data infrastructure for German tax advisory firms
