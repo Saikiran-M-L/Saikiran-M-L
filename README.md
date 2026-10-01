@@ -75,8 +75,8 @@ AI system that extends facial emotion recognition into a multimodal pipeline —
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/saikiran-magadi-lakshmeesha/)
-- 📧 Email: saikiran.805050@icloud.com
-- 🐙 GitHub: [Saikiran-M-L](https://github.com/Saikiran-M-L)
+- Email: saikiran.805050@icloud.com
+- GitHub: [Saikiran-M-L](https://github.com/Saikiran-M-L)
 
 ---
 
