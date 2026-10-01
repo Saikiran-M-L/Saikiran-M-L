@@ -48,7 +48,7 @@ Power BI sales and operations analytics solution for a specialty food and bevera
 Machine learning-powered weather prediction system for major German cities (Hamburg, Berlin, Munich, Frankfurt, Cologne) using historical data. Flask API serves predictions for temperature, humidity, and precipitation.
 
 
-### [MoodSync — Multimodal Emotion Chat](https://github.com/Saikiran-M-L/moodsync-multimodal-emotion-chat)
+### [MoodSync - Multimodal Emotion Chat](https://github.com/Saikiran-M-L/moodsync-multimodal-emotion-chat)
 AI system that extends facial emotion recognition into a multimodal pipeline — combining camera input with typed text to detect agreement or mismatch between expressed and stated emotions in real time.
 
 
