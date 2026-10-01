@@ -56,7 +56,7 @@ AI system that extends facial emotion recognition into a multimodal pipeline —
 
 ## What I've Built at Work
 
-**@ EGIDO GmbH (Current)**
+**@ EGIDO GmbH**
 - Multi-tenant **Kanzlei Portal** (Laravel, Livewire, Filament) — advisor/client/user hierarchy, DATEV sync, document workflows, and REST API for German tax advisory firms
 - **AI-powered RAG reply system** (AWS Bedrock, Claude) — mines historical support tickets to generate editable draft responses via REST API
 - **GitLab CI/CD pipeline** — auto-provisions isolated, production-parity preview environments per feature branch; tears down after 7 days
